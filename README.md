@@ -1,3 +1,4 @@
+![Header](./[Your header image])
 - 👋 Hi, I’m @kejvinvasha
 - 🏫 I'm currently a second-year computer science student at York University.
 - 👀 I’m interested in software development, web technologies such as React, HTML/CSS, JavaScript, and security.
